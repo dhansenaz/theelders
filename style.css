@@ -32,8 +32,9 @@ body, html{
     max-height: 58vh;
     font-family: 'Times New Roman', Times, serif;
     position: relative;
-    top: 50%;
-    transform: translateY(-50%);
+    top: 30%;
+    transform: translateY(-40%);
+    letter-spacing: 2px;
 }
 
 
@@ -43,12 +44,13 @@ body, html{
     /* z-index: 100; */
     position: absolute;
     left: 50%;
-    top: 80%;
+    top: 65%;
     /* transform: translateY(-50%); */
     line-height: 1.2;
     font-size: .75rem;
     font-family: 'Times New Roman', Times, serif;
     /* text-shadow: 2px 2px 30px black; */
+    letter-spacing: 2px;
     
 }
 .wrapper div{
